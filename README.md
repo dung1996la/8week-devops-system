@@ -1,11 +1,11 @@
 # 8-Week DevOps/System Engineer Practice - dung1996la
-Progress: 1/56 days (cập nhật hàng ngày)
+Progress: 2/56 days (cập nhật hàng ngày)
 
 ## Week 1 – Linux Troubleshooting Sâu
 | Day | Task | Status | Notes / Link |
 |-----|------|--------|--------------|
 | 1   | Cài 1 VM Debian → tạo + fix OOM killer (1 cases) | [X] | week1-linux-troubleshooting/ screenshots & scripts |
-| 2   | High CPU load: stress-ng, top, nice, cpulimit (5 cases) | [ ] |  |
+| 2   | High CPU load: stress-ng, top, nice, cpulimit (5 cases) | [X] |  |
 | 3   | Disk full + inode exhaust + no space left (5 cases) | [ ] |  |
 | 4   | Fork bomb, ulimit, high iowait, systemd limits (5 cases) | [ ] |  |
 | 5   | Kernel panic & recovery (sysctl, module blacklist) 3 cases | [ ] |  |
