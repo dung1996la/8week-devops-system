@@ -1,0 +1,23 @@
+# Temp files
+*.log
+*.tmp
+/tmp/*
+.DS_Store  # Mac OS
+
+# Python
+__pycache__/
+*.pyc
+.env
+
+# Images duplicates
+*.jpg
+*.png  # chỉ giữ ảnh cần thiết, up thủ công
+
+# VM artifacts
+*.iso
+*.vdi
+*.vmdk
+
+# IDE
+.vscode/
+.idea/
